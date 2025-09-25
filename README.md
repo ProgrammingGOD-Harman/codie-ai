@@ -1,4 +1,4 @@
-# AI Coding Agent 🤖💻
+# Codie AI 🤖💻
 
 *A playful AI assistant that helps you explore, edit, and debug code.*
 
